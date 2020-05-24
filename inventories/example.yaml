@@ -1,0 +1,3 @@
+plugin: example
+groups:
+  k8s-cluster:children: name.startswith('master')
